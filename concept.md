@@ -6,12 +6,11 @@ Many people use laptops, phones, or other screened devices to reference recipes 
 
 ## Feature Set ##
 **Link accounts**: Users will create an account on my website and link it to their existing Amazon (Echo) account via OAuth.  
-**Browse recipes**: On my website, users will be able to search and browse a large database of recipes, which includes recipes from popular sites like [Allrecipes](http://allrecipes.com/). This will be facilitated by my site's integration of the [Yummly API](https://developer.yummly.com/).  
-**Save recipes**: On the website, users will star/save recipes that they would like to have access to on their Echo device. These recipes will be saved in the user's account.  
+**Input and save recipes**: Users will have two options for inputting and saving recipes to their account for access on their Echo device. Under one strategy, the user will input the recipe from scratch via a form, which will include fields for ingredients and the recipe steps. The alternative is to submit a link to the recipe on Yummly, which is a large database of recipes from popular sites like [Allrecipes](http://allrecipes.com/). My site's integration of the [Yummly API](https://developer.yummly.com/) will provide a recipe stub with basic information on the recipe already filled out. However, the user will still be required to copy the recipe steps into my website form (this information is not provided by the API).  
 **Interact with recipes**: Via voice, users will launch the Recipes skill on their Echo device and then open a specific recipe of their choice. An intuitive voice interface will let users ask what step of the recipe they're on and what's coming up. Users will also be able to ask basic questions about ingredients and preparation time.  
 
 **Other potential features (non-MVP)**:  
-**Input and share recipes**: Users can input their own recipes on my website and publish them to share with other Alexa Recipes users.  
+**Share recipes**: Users can publish their own recipes to share with other Alexa Recipes users.  
 **Browse by category via voice**: With recipes categorized by type, users can ask Alexa to name aloud which recipes of a certain type a user has saved.
 
 ## Technology Choices ##
