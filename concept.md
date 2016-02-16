@@ -1,5 +1,5 @@
 # Alexa Recipes #
-Alexa Recipes is an Amazon Echo voice skill and accompanying web app. Users can browse recipes online and save them to access on their Amazon Echo device. Then they can interact with Alexa via voice to work their way through the recipe step by step.
+Alexa Recipes is an Amazon Echo voice skill and accompanying web app. Users can browse recipes online and save them for access on their Amazon Echo device. Then they can interact with Alexa via voice to work their way through the recipe step by step.
 
 ## Problem Statement ##
 Many people use laptops, phones, or other screened devices to reference recipes while cooking. However, it can be inconvenient to constantly unlock these devices and to interact with them with full or messy hands in the kitchen. My capstone will provide one solution to this problem by allowing users to interact with their chosen recipes via voice.
